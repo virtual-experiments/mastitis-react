@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "./static/css/main.c1647de6.css",
-    "main.js": "./static/js/main.f4fdbdee.js",
-    "index.html": "./index.html",
-    "main.c1647de6.css.map": "./static/css/main.c1647de6.css.map",
-    "main.f4fdbdee.js.map": "./static/js/main.f4fdbdee.js.map"
+    "main.css": "/mastitis-react/static/css/main.c1647de6.css",
+    "main.js": "/mastitis-react/static/js/main.d64eaa20.js",
+    "index.html": "/mastitis-react/index.html",
+    "main.c1647de6.css.map": "/mastitis-react/static/css/main.c1647de6.css.map",
+    "main.d64eaa20.js.map": "/mastitis-react/static/js/main.d64eaa20.js.map"
   },
   "entrypoints": [
     "static/css/main.c1647de6.css",
-    "static/js/main.f4fdbdee.js"
+    "static/js/main.d64eaa20.js"
   ]
 }
